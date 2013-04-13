@@ -5,15 +5,10 @@
 
 .. include:: ../Includes.txt
 
-Einführung
+Introduction
 ==========
 
-Da die TYPO3-Programmierung auf Basis der piBase immer undurchsichtiger wird und
-keine klare Struktur bei der Programmierung zu erkennen ist, haben sich die
-TYPO3-Entwickler auf die Suche gemacht und überlegt welches System sie in Zukunft für
-TYPO3 einsetzen können. Die Entwickler haben sich viele Frameworks angeschaut, aber
-überall Defizite gefunden und entschieden ein eigenes Framework aufzubauen und so ist
-FLOW3 entstanden.
+TYPO3 programming with piBase is getting more and more complicated and unstructured. There is no clear strategy for programming. So that TYPO3 developers started to search for a new System for TYPO3. There are a lot of frameworks but everyone with own deficites. The desicision was clear, we need a own framework. This was the beginning of FLOW3.
 
 Dieses FLOW3 wird bzw. ist schon die Basis des neuen TYPO3 5, welches derzeit unter
 dem Namen Phoenix durch die TYPO3-Gemeinde wandert. Da FLOW3 eine völlig neue Basis
